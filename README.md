@@ -15,6 +15,8 @@ _Get started using GitHub in less than an hour._
 
 <!--
   <<< Author notes: Step 4 >>>
+
+  lpppppppppgit
   Just a historic note: The previous version of this step required responding
   to a pull request review before merging. The previous version also handled
   if users accidentally closed without merging.
